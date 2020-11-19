@@ -3,7 +3,7 @@
 class Library:
 
     def __init__(self):
-        self.Books = ['Cengage-Physics', 'IE Irodov', 'N Avasthi', 'RD Sharma']
+        self.Books = ['Cengage-Physics', 'IE Irodov', 'N Avasthi', 'RD Sharma', 'HC Verma']
     
     def ShowBooks(self):
         self.num = len(self.Books)
